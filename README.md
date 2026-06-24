@@ -34,4 +34,4 @@ To take a raw, messy HR-style dataset and apply a systematic cleaning pipeline: 
 - `employee_data_cleaning.ipynb` — full cleaning notebook with step-by-step process
 
 ## Author
-Naivedh — [add your LinkedIn/portfolio link here]
+Naivedh 
