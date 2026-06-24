@@ -1,0 +1,414 @@
+emp_id,full_name,age,salary,city,join_date,email,department
+1201,Priya Patel,191,140893,mumbai,Jan 2022,priyapatel@yahoo.com,SALES
+1029,Vikram Singh,unknown,32314.00,Surat,Jan 2022,vikram.singh@GMAIL.COM,it
+1102,Karan Joshi,172,,Bangalore,,invalid_email,IT
+1056,Priya Patel,NA,135823,Chennai,02/19/2023,priyapatel@yahoo.com,IT
+1186,Rahul Sharma,,NaN,Chennai,Jan 2022,rahul.sharma@gmail.com,Marketing
+1222,Pooja Reddy,NA,146955,Chennai,2022,,Marketing
+1242,Sara Khan,unknown,102960,mumbai,10/10/2023,sara.khan@GMAIL.COM,sales
+1291,Rahul Sharma,N/A,,Surat,01/28/2022,,it
+1171,Pooja Reddy,unknown,₹87944,delhi,Jan 2022,pooja.reddy@gmail.com,Sales
+1213,Rahul Sharma,38,86160,bangalore,2022,rahul.sharma@gmail.com,it
+1275,Anjali Desai,187,32941,pune ,08-04-2021,,Sales
+1189,Arjun Mehta,N/A,119232,pune ,2023-05-18,arjun.mehta@GMAIL.COM,HR
+1246,Arjun Mehta,21 yrs,-131370,Delhi,2022,,it
+1164,Priya Patel,NA,106863.00,Mumbai,06/26/2022,invalid_email,SALES
+1333,Karan Joshi,N/A,66867.00,Pune,Jan 2022,,Marketing
+1187,Amit Kumar,189,131006.00,Mumbai,Jan 2022,,SALES
+1384,Rahul Sharma,51 yrs,NaN,Mumbai,,invalid_email,Sales
+1139,Vikram Singh,18,NaN,mumbai,2021-02-23,vikram.singh@gmail.com,Marketing
+1236,Priya Patel,unknown,₹50399,Pune,2022-06-01,priya.patel@GMAIL.COM,sales
+1078,Anjali Desai,N/A,65219.00,Surat,2022,invalid_email,SALES
+1376,Arjun Mehta,N/A,₹84990,MUMBAI,Jan 2022,,sales
+1318,Priya Patel,N/A,-125133,delhi,2023-03-12,priya.patel@gmail.com,Marketing
+1005,Neha Gupta,47 yrs,30454.00,MUMBAI,Jan 2022,,marketing 
+1065,Rahul Sharma,,128307,MUMBAI,2021-01-19,invalid_email,sales
+1004,Neha Gupta,,-85762, Surat,Jan 2022,invalid_email,it
+1080,Arjun Mehta,N/A,-92650,Mumbai,Jan 2022,,it
+1146,Pooja Reddy,unknown,52195.00,pune ,2022,pooja.reddy@GMAIL.COM,it
+1270,Sara Khan,26,79991.00,Chennai,2021-12-24,sarakhan@yahoo.com,it
+1395,Rahul Sharma,54 yrs,28464,Delhi,27-11-2021,rahulsharma@yahoo.com,SALES
+1369,Arjun Mehta,46 yrs,140993,Bengaluru,07/09/2022,,SALES
+1058,Sara Khan,189,66409,bangalore,06/04/2021,sara.khan@gmail.com, HR
+1017,Sara Khan,,,Delhi,,sarakhan@yahoo.com,it
+1119,Karan Joshi,N/A,₹147323,bangalore,2021-11-20,,marketing 
+1106,Amit Kumar,33 yrs,60121,Chennai,01-01-2022,amitkumar@yahoo.com,IT
+1373,Sara Khan,22,NaN,MUMBAI,2022-05-13,sara.khan@GMAIL.COM,HR
+1092,Karan Joshi,50 yrs,101742.00, Surat,Jan 2022,,Sales
+1067,Vikram Singh,43,₹131327,Mumbai,02-01-2023,vikram.singh@gmail.com, HR
+1107,Rahul Sharma,,138397.00,delhi,08/13/2021,rahul.sharma@gmail.com,HR
+1191,Arjun Mehta,NA,,delhi,Jan 2022,,it
+1006,Amit Kumar,unknown,₹109049,mumbai,2022-10-06,invalid_email,Sales
+1365,Amit Kumar,25 yrs,15262.00,mumbai,,amit.kumar@GMAIL.COM,SALES
+1062,Neha Gupta,NA,,Bengaluru,10/17/2021,nehagupta@yahoo.com,it
+1232,Pooja Reddy,43 yrs,₹123459,Bengaluru,2022,,IT
+1353,Vikram Singh,N/A,-114589,Mumbai,15-11-2022,,sales
+1372,Arjun Mehta,unknown,38331.00,bangalore,2022-11-14,arjun.mehta@GMAIL.COM,sales
+1117,Priya Patel,,NaN,bangalore,06-01-2023,priya.patel@GMAIL.COM,Sales
+1081,Sara Khan,unknown,-133987,Bangalore,,sarakhan@yahoo.com,marketing 
+1298,Anjali Desai,N/A,₹96986,pune ,2022,invalid_email,it
+1294,Priya Patel,,NaN,Bengaluru,,invalid_email,marketing 
+1192,Rahul Sharma,165,₹129322,MUMBAI,2022,rahulsharma@yahoo.com,IT
+1285,Neha Gupta,N/A,62818,Pune,2022,,IT
+1351,Karan Joshi,30 yrs,149288,Delhi,Jan 2022,karan.joshi@GMAIL.COM,IT
+1325,Vikram Singh,NA,100869.00,pune ,28-02-2022,vikramsingh@yahoo.com,Marketing
+1337,Amit Kumar,196,₹30704,Delhi,2021-05-01,amit.kumar@GMAIL.COM,Marketing
+1331,Rahul Sharma,36,-136634,Surat,04/09/2022,invalid_email,it
+1095,Arjun Mehta,54,, Surat,01/22/2022,arjun.mehta@GMAIL.COM,it
+1293,Amit Kumar,NA,-54081,Surat,03-10-2022,,SALES
+1277,Arjun Mehta,unknown,67880.00,Bangalore,08/18/2023,,it
+1389,Amit Kumar,197,NaN,pune ,Jan 2022,amit.kumar@gmail.com, HR
+1268,Karan Joshi,unknown,NaN,MUMBAI,Jan 2022,karanjoshi@yahoo.com,Marketing
+1090,Vikram Singh,N/A,34764,Pune,06/26/2021,vikram.singh@gmail.com,Marketing
+1218,Karan Joshi,193,NaN,MUMBAI,2022-12-27,karan.joshi@GMAIL.COM,it
+1197,Karan Joshi,30 yrs,63221,Mumbai,2023-09-03,karan.joshi@GMAIL.COM,IT
+1180,Karan Joshi,unknown,119669.00,Chennai,14-07-2021,karanjoshi@yahoo.com, HR
+1229,Sara Khan,154,NaN,Delhi,06/13/2021,sara.khan@GMAIL.COM,HR
+1018,Priya Patel,169,110992.00,MUMBAI,02/13/2022,priyapatel@yahoo.com,it
+1040,Priya Patel,150,₹75968,pune ,2022,,Marketing
+1244,Neha Gupta,28,80088,Delhi,2021-11-16,neha.gupta@gmail.com,Sales
+1256,Pooja Reddy,N/A,₹76055,Chennai,Jan 2022,pooja.reddy@GMAIL.COM,IT
+1376,Arjun Mehta,N/A,₹84990,MUMBAI,Jan 2022,,sales
+1085,Arjun Mehta,31 yrs,₹65638,Bangalore,Jan 2022,invalid_email,Marketing
+1063,Neha Gupta,NA,,BENGALURU,10/17/2021,nehagupta@yahoo.com,it
+1156,Anjali Desai,N/A,130701.00,MUMBAI,08-03-2021,anjalidesai@yahoo.com, HR
+1388,Anjali Desai,45,,Bengaluru,2022,anjali.desai@gmail.com,marketing 
+1238,Karan Joshi,152,97226,Chennai,04/17/2021,karan.joshi@GMAIL.COM, HR
+1329,Anjali Desai,167,,Delhi,,invalid_email,Sales
+1326,Karan Joshi,NA,134866.00,Kolkata,24-01-2021,karan.joshi@GMAIL.COM, HR
+1397,Arjun Mehta,unknown,₹75014,Pune,2023-12-17,arjun.mehta@gmail.com,IT
+1233,Priya Patel,50,NaN,Mumbai,,priyapatel@yahoo.com,Sales
+1159,Pooja Reddy,20,NaN,Delhi,09-06-2021,pooja.reddy@GMAIL.COM,sales
+1361,Vikram Singh,unknown,139400.00,Pune,2023-01-11,,Marketing
+1273,Neha Gupta,38 yrs,-138264,Surat,2021-02-04,neha.gupta@gmail.com,Sales
+1093,Arjun Mehta,37,,Pune,13-10-2021,arjunmehta@yahoo.com,Sales
+1011,Arjun Mehta,N/A,-88247,delhi,06/15/2023,arjun.mehta@gmail.com,Marketing
+1179,Neha Gupta,31,18986.00,mumbai,2022-05-01,neha.gupta@gmail.com,HR
+1260,Amit Kumar,34,₹36619,Bengaluru,2022-12-16,invalid_email,Sales
+1307,Sara Khan,155,-35667,Surat,Jan 2022,invalid_email,sales
+1041,Arjun Mehta,,94041.00,Bangalore,,invalid_email,Sales
+1250,Sara Khan,36 yrs,65208,bangalore,2021-02-16,,HR
+1267,Pooja Reddy,38,134466,Kolkata,18-03-2021,invalid_email,it
+1306,Sara Khan,33 yrs,116586.00,Bengaluru,25-01-2021,,SALES
+1161,Priya Patel,unknown,-132594,Delhi,02/12/2022,,Sales
+1023,Neha Gupta,19,-149803,Delhi,Jan 2022,,marketing 
+1310,Sara Khan,NA,NaN,Kolkata,,sara.khan@gmail.com,it
+1013,Arjun Mehta,28 yrs,,Kolkata,20-08-2023,arjun.mehta@gmail.com, HR
+1101,Karan Joshi,49,67541.00,Pune,02-11-2022,karan.joshi@GMAIL.COM,HR
+1061,Priya Patel,38,147100,Pune,,priyapatel@yahoo.com,sales
+1208,Arjun Mehta,unknown,94891.00,Bengaluru,08/14/2022,invalid_email, HR
+1227,Neha Gupta,173,36690.00,Bengaluru,2023-07-07,invalid_email,Sales
+1039,Vikram Singh,N/A,-34172,Kolkata,2022,vikram.singh@gmail.com,HR
+1271,Rahul Sharma,NA,25317.00,Delhi,Jan 2022,invalid_email,sales
+1165,Amit Kumar,N/A,₹131789,Pune,,invalid_email,sales
+1367,Karan Joshi,28,₹120373,mumbai,,karan.joshi@gmail.com,it
+1366,Anjali Desai,,₹50478, Surat,23-01-2023,invalid_email,HR
+1127,Neha Gupta,NA,68558,delhi,2022,,it
+1350,Priya Patel,unknown,-117779,pune ,Jan 2022,,it
+1172,Anjali Desai,,,Bangalore,,anjalidesai@yahoo.com,HR
+1290,Amit Kumar,unknown,,Surat,Jan 2022,,SALES
+1311,Karan Joshi,49,,Kolkata,16-03-2021,karanjoshi@yahoo.com,Sales
+1228,Sara Khan,177,₹57193,Mumbai,04-04-2023,sara.khan@GMAIL.COM,Sales
+1122,Arjun Mehta,NA,140267.00,Mumbai,08-06-2021,invalid_email,SALES
+1303,Anjali Desai,30,NaN,bangalore,,invalid_email, HR
+1185,Arjun Mehta,36,132785,pune ,2023-06-17,arjun.mehta@GMAIL.COM,marketing 
+1082,Arjun Mehta,,-17787,Kolkata,05/18/2021,,IT
+1379,Sara Khan,,₹143275,Bangalore,Jan 2022,,Marketing
+1328,Amit Kumar,unknown,,MUMBAI,25-06-2022,,Sales
+1027,Anjali Desai,unknown,144549.00, Surat,,,SALES
+1089,Sara Khan,,NaN,Bengaluru,2021-03-27,sara.khan@GMAIL.COM,HR
+1322,Sara Khan,N/A,NaN,Bengaluru,11/13/2022,,HR
+1073,Rahul Sharma,155,90331,Surat,2022-05-01,invalid_email,marketing 
+1347,Arjun Mehta,54 yrs,,bangalore,,,sales
+1272,Sara Khan,unknown,59937.00,delhi,,invalid_email,Sales
+1363,Rahul Sharma,28 yrs,114933,Delhi,2021-09-25,invalid_email,Sales
+1132,Anjali Desai,,148559,MUMBAI,2022,invalid_email,SALES
+1230,Anjali Desai,unknown,₹32709,bangalore,2022,anjalidesai@yahoo.com,sales
+1098,Vikram Singh,160,, Surat,,vikram.singh@GMAIL.COM,HR
+1069,Priya Patel,46 yrs,42598,Bangalore,Jan 2022,,marketing 
+1340,Karan Joshi,NA,NaN,Bengaluru,,karanjoshi@yahoo.com,SALES
+1345,Priya Patel,NA,₹20068,Surat,16-02-2021,,Marketing
+1091,Arjun Mehta,58,139396.00,bangalore,Jan 2022,arjun.mehta@GMAIL.COM,IT
+1323,Karan Joshi,NA,₹38840, Surat,2022,karan.joshi@GMAIL.COM,marketing 
+1359,Rahul Sharma,188,128027,Mumbai,Jan 2022,,IT
+1344,Sara Khan,174,-59906,MUMBAI,Jan 2022,invalid_email,HR
+1125,Amit Kumar,N/A,-54225,Kolkata,2022-12-15,invalid_email,marketing 
+1059,Rahul Sharma,N/A,,Delhi,14-07-2023,,HR
+1120,Karan Joshi,NA,46902,delhi,2021-10-17,karan.joshi@gmail.com,HR
+1012,Pooja Reddy,N/A,NaN,mumbai,,pooja.reddy@GMAIL.COM,HR
+1320,Rahul Sharma,NA,₹48224,Mumbai,10/08/2022,rahulsharma@yahoo.com,HR
+1238,Amit Kumar,unknown,139076,BANGALORE,04/18/2022,invalid_email,sales
+1162,Sara Khan,N/A,116680.00,Mumbai,11-10-2022,sarakhan@yahoo.com,SALES
+1362,Anjali Desai,43,53340.00,pune ,,anjali.desai@gmail.com,Marketing
+1286,Pooja Reddy,N/A,83315,Bangalore,,pooja.reddy@GMAIL.COM,Sales
+1383,Anjali Desai,NA,,MUMBAI,03/08/2022,anjalidesai@yahoo.com,Marketing
+1370,Karan Joshi,N/A,,pune ,07/22/2021,invalid_email,IT
+1225,Priya Patel,168,₹35040,Surat,23-12-2021,,Sales
+1088,Neha Gupta,175,-66739, Surat,07-09-2021,invalid_email,it
+1131,Vikram Singh,N/A,₹19047,Bengaluru,2022,vikramsingh@yahoo.com,it
+1124,Neha Gupta,unknown,₹124248,pune ,,neha.gupta@GMAIL.COM,marketing 
+1257,Amit Kumar,NA,-50650,Pune,2022-10-18,invalid_email,it
+1014,Amit Kumar,45,₹70778,Surat,Jan 2022,, HR
+1173,Pooja Reddy,172,116981,mumbai,2022-11-28,pooja.reddy@gmail.com,Marketing
+1123,Sara Khan,N/A,85759,Surat,2022,sara.khan@GMAIL.COM,HR
+1138,Pooja Reddy,N/A,₹79553,MUMBAI,Jan 2022,pooja.reddy@gmail.com,SALES
+1111,Arjun Mehta,36,,Bangalore,Jan 2022,arjun.mehta@gmail.com,it
+1051,Neha Gupta,N/A,₹63689,delhi,02/13/2022,neha.gupta@gmail.com,HR
+1112,Sara Khan,54 yrs,,mumbai,2022,sarakhan@yahoo.com,marketing 
+1009,Anjali Desai,41,140932.00,mumbai,2022,anjali.desai@gmail.com,Marketing
+1287,Priya Patel,unknown,₹53506,Mumbai,14-05-2021,priyapatel@yahoo.com,it
+1016,Karan Joshi,200,80141.00,Mumbai,2022,, HR
+1356,Rahul Sharma,50,NaN,delhi,,,SALES
+1000,Neha Gupta,27,,Delhi,02-02-2022,,sales
+1105,Rahul Sharma,NA,135135, Surat,Jan 2022,rahulsharma@yahoo.com,HR
+1299,Amit Kumar,N/A,,Bangalore,2021-08-19,invalid_email,it
+1354,Pooja Reddy,,₹79533,Mumbai,2022,pooja.reddy@GMAIL.COM, HR
+1387,Neha Gupta,156,-136342,delhi,26-06-2022,nehagupta@yahoo.com,IT
+1070,Vikram Singh,,NaN,Delhi,,,HR
+1038,Karan Joshi,NA,₹145585,pune ,,karan.joshi@GMAIL.COM,it
+1150,Vikram Singh,38 yrs,₹98926,Chennai,,vikram.singh@GMAIL.COM,Sales
+1223,Sara Khan,168,,delhi,Jan 2022,sara.khan@GMAIL.COM, HR
+1163,Vikram Singh,,,Surat,2021-06-26,vikramsingh@yahoo.com,SALES
+1167,Rahul Sharma,N/A,₹89091,Delhi,,rahulsharma@yahoo.com,Sales
+1174,Anjali Desai,unknown,81041.00, Surat,2022-11-09,anjali.desai@GMAIL.COM,Marketing
+1207,Vikram Singh,unknown,₹32834,Delhi,Jan 2022,vikram.singh@GMAIL.COM,IT
+1399,Anjali Desai,unknown,₹91855,Pune,Jan 2022,invalid_email,it
+1145,Vikram Singh,NA,NaN,delhi,12/16/2023,vikram.singh@gmail.com, HR
+1315,Arjun Mehta,60,46169.00,Chennai,Jan 2022,arjun.mehta@gmail.com,marketing 
+1042,Rahul Sharma,unknown,NaN,bangalore,,rahul.sharma@GMAIL.COM,Marketing
+1160,Priya Patel,,, Surat,Jan 2022,priya.patel@gmail.com,Sales
+1247,Priya Patel,21,₹59734,mumbai,Jan 2022,invalid_email,sales
+1204,Rahul Sharma,NA,71334.00,Bangalore,03-08-2023,rahulsharma@yahoo.com,SALES
+1291,Amit Kumar,unknown,,SURAT,Jan 2022,,SALES
+1377,Sara Khan,NA,₹41256,Pune,2022-11-24,invalid_email,HR
+1217,Priya Patel,unknown,-83085,Surat,2022-10-12,priyapatel@yahoo.com,sales
+1296,Neha Gupta,NA,147745,mumbai,2023-02-24,invalid_email,SALES
+1342,Amit Kumar,unknown,NaN,MUMBAI,Jan 2022,invalid_email,HR
+1295,Neha Gupta,,-98282,pune ,2022,,SALES
+1211,Amit Kumar,,NaN,bangalore,2023-06-15,invalid_email,IT
+1147,Sara Khan,NA,26376.00,delhi,Jan 2022,,IT
+1214,Karan Joshi,155,109434.00,MUMBAI,2022,karan.joshi@gmail.com,SALES
+1100,Sara Khan,N/A,89267.00,delhi,2022,sarakhan@yahoo.com,marketing 
+1034,Vikram Singh,N/A,35027,delhi,2022,invalid_email,Marketing
+1188,Anjali Desai,30,-35955,bangalore,Jan 2022,anjali.desai@GMAIL.COM,it
+1110,Priya Patel,38,,Bengaluru,05/25/2021,priyapatel@yahoo.com,sales
+1175,Anjali Desai,NA,89072.00,Mumbai,2022,anjali.desai@gmail.com,Marketing
+1053,Anjali Desai,34,24818.00,MUMBAI,02-04-2022,invalid_email,it
+1135,Vikram Singh,151,60473.00,bangalore,Jan 2022,invalid_email,it
+1386,Sara Khan,N/A,NaN,Kolkata,10/25/2021,,IT
+1154,Anjali Desai,,141021.00,Kolkata,Jan 2022,anjali.desai@gmail.com,SALES
+1019,Karan Joshi,39 yrs,108484,Bangalore,2022-09-20,,sales
+1142,Vikram Singh,,NaN,pune ,2022,,Sales
+1158,Amit Kumar,189,107972.00, Surat,2022,,IT
+1283,Karan Joshi,NA,120747.00, Surat,2022,,Sales
+1044,Anjali Desai,43 yrs,NaN,Mumbai,2021-02-06,anjalidesai@yahoo.com,SALES
+1334,Neha Gupta,NA,NaN,Kolkata,04-11-2022,nehagupta@yahoo.com,it
+1324,Neha Gupta,41 yrs,144424.00,delhi,2022,,marketing 
+1261,Priya Patel,34,NaN,Bangalore,03/07/2023,priya.patel@GMAIL.COM,it
+1108,Sara Khan,20,-40424,Kolkata,,invalid_email,SALES
+1394,Karan Joshi,51 yrs,,mumbai,2022,karan.joshi@gmail.com,IT
+1169,Priya Patel,171,144593,Mumbai,2023-12-24,priyapatel@yahoo.com,sales
+1079,Sara Khan,unknown,-66231,MUMBAI,05-05-2023,invalid_email,Marketing
+1391,Neha Gupta,,149378,mumbai,11-04-2022,neha.gupta@GMAIL.COM,HR
+1251,Sara Khan,162,96235.00,Delhi,25-06-2021,,IT
+1084,Rahul Sharma,N/A,-124728,pune ,Jan 2022,,Marketing
+1008,Sara Khan,NA,,mumbai,,invalid_email,IT
+1224,Anjali Desai,192,29345,pune ,07/15/2023,invalid_email,Marketing
+1099,Arjun Mehta,200,,pune ,2021-10-27,,it
+1360,Rahul Sharma,N/A,-42176,mumbai,13-11-2021,,HR
+1341,Arjun Mehta,NA,,Pune,2021-05-02,invalid_email, HR
+1332,Rahul Sharma,N/A,,Bengaluru,Jan 2022,rahul.sharma@GMAIL.COM,SALES
+1028,Karan Joshi,151,₹37306,pune ,2022,karanjoshi@yahoo.com,HR
+1031,Sara Khan,,89853,Chennai,2022,sara.khan@GMAIL.COM,marketing 
+1305,Amit Kumar,200,,Pune,07/15/2023,amit.kumar@GMAIL.COM,SALES
+1055,Arjun Mehta,N/A,-123548,Mumbai,Jan 2022,arjunmehta@yahoo.com,it
+1245,Priya Patel,42 yrs,-129909,mumbai,Jan 2022,priyapatel@yahoo.com,Marketing
+1032,Arjun Mehta,,₹52156,Pune,Jan 2022,arjun.mehta@GMAIL.COM,Sales
+1284,Rahul Sharma,unknown,,pune ,Jan 2022,invalid_email,Marketing
+1048,Rahul Sharma,unknown,-127705,MUMBAI,2021-10-08,invalid_email,HR
+1343,Pooja Reddy,24 yrs,NaN, Surat,27-07-2022,pooja.reddy@GMAIL.COM,marketing 
+1289,Pooja Reddy,24 yrs,-46690,Bangalore,08/08/2022,poojareddy@yahoo.com,SALES
+1292,Arjun Mehta,,113723.00,Delhi,2022,invalid_email,IT
+1033,Amit Kumar,N/A,51885.00,bangalore,,amit.kumar@gmail.com,marketing 
+1221,Priya Patel,NA,96068.00,pune ,2021-02-27,priyapatel@yahoo.com,Sales
+1317,Pooja Reddy,N/A,108833,SURAT,,invalid_email,IT
+1035,Neha Gupta,unknown,NaN,bangalore,11/28/2022,nehagupta@yahoo.com,HR
+1314,Anjali Desai,,103444.00,Bangalore,2022,anjali.desai@gmail.com,it
+1063,Amit Kumar,NA,,Mumbai,2022,amit.kumar@GMAIL.COM,IT
+1157,Pooja Reddy,52 yrs,,Mumbai,Jan 2022,invalid_email,sales
+1128,Arjun Mehta,,,Delhi,09/13/2023,arjun.mehta@GMAIL.COM,HR
+1046,Vikram Singh,unknown,₹66305,Bangalore,Jan 2022,vikram.singh@gmail.com,it
+1249,Sara Khan,60 yrs,NaN,Mumbai,Jan 2022,sara.khan@gmail.com,HR
+1066,Karan Joshi,N/A,,Kolkata,16-03-2021,karan.joshi@gmail.com,SALES
+1349,Vikram Singh,,NaN,MUMBAI,,vikram.singh@gmail.com,marketing 
+1348,Priya Patel,49 yrs,,delhi,04/14/2023,priya.patel@GMAIL.COM,HR
+1258,Neha Gupta,29,NaN,Surat,04/21/2021,invalid_email,marketing 
+1234,Amit Kumar,50,,Chennai,2021-02-12,invalid_email,marketing 
+1392,Sara Khan,unknown,₹52549,Mumbai,12-09-2021,invalid_email, HR
+1082,Arjun Mehta,,-17787,Kolkata,05/18/2021,,IT
+1107,Rahul Sharma,,138397.00,delhi,08/13/2021,rahul.sharma@gmail.com,HR
+1045,Karan Joshi,unknown,₹113011,mumbai,02/12/2022,karan.joshi@GMAIL.COM,IT
+1206,Rahul Sharma,unknown,₹57526,delhi,Jan 2022,rahul.sharma@GMAIL.COM, HR
+1168,Sara Khan,35,70633.00,Kolkata,24-01-2023,sara.khan@GMAIL.COM,Sales
+1309,Sara Khan,NA,133978, Surat,2021-09-22,invalid_email,IT
+1047,Rahul Sharma,NA,103885.00,Bangalore,20-01-2022,,sales
+1113,Sara Khan,unknown,106132.00,Kolkata,01/14/2022,sarakhan@yahoo.com,IT
+1177,Arjun Mehta,unknown,₹102993,Surat,Jan 2022,arjun.mehta@gmail.com,Sales
+1219,Pooja Reddy,unknown,₹123433,Bangalore,2022,pooja.reddy@GMAIL.COM,it
+1378,Sara Khan,32 yrs,106747,Kolkata,,invalid_email,HR
+1021,Vikram Singh,21,85496,Pune,2022,vikram.singh@GMAIL.COM,marketing 
+1248,Sara Khan,NA,139511.00,MUMBAI,,sara.khan@gmail.com, HR
+1199,Vikram Singh,NA,NaN,Bangalore,2022,vikram.singh@gmail.com,SALES
+1137,Sara Khan,52 yrs,77962.00,Bangalore,2022,sarakhan@yahoo.com,Marketing
+1024,Sara Khan,162,₹121089,Mumbai,Jan 2022,,marketing 
+1184,Rahul Sharma,173,NaN,delhi,,rahul.sharma@gmail.com,marketing 
+1205,Karan Joshi,172,NaN,Bangalore,2022,karan.joshi@gmail.com,Marketing
+1134,Sara Khan,,16615.00,bangalore,2022,sarakhan@yahoo.com,it
+1116,Rahul Sharma,N/A,77486, Surat,2023-09-25,rahul.sharma@gmail.com,sales
+1212,Vikram Singh,N/A,NaN,Mumbai,,,HR
+1374,Rahul Sharma,54 yrs,29761.00,Surat,2022,rahul.sharma@gmail.com,Sales
+1355,Amit Kumar,N/A,₹105628,mumbai,2022-04-26,,IT
+1274,Sara Khan,41,NaN,bangalore,2023-08-11,invalid_email,IT
+1231,Pooja Reddy,unknown,,Surat,12/24/2023,pooja.reddy@gmail.com,Sales
+1217,Priya Patel,unknown,-83085,Surat,2022-10-12,priyapatel@yahoo.com,sales
+1056,Priya Patel,NA,135823,Chennai,02/19/2023,priyapatel@yahoo.com,IT
+1327,Pooja Reddy,30,₹63819, Surat,09/28/2022,pooja.reddy@GMAIL.COM,sales
+1304,Amit Kumar,45,₹29273,Bangalore,03/12/2022,amitkumar@yahoo.com,SALES
+1330,Amit Kumar,39,NaN,delhi,2022-10-26,,Sales
+1181,Vikram Singh,165,NaN,Mumbai,2022-09-22,vikram.singh@GMAIL.COM,Sales
+1097,Pooja Reddy,173,-145573,pune ,2022,pooja.reddy@gmail.com,it
+1114,Rahul Sharma,,16216,Bangalore,23-04-2022,rahul.sharma@GMAIL.COM,HR
+1278,Karan Joshi,unknown,₹109820,Chennai,12/07/2023,karanjoshi@yahoo.com,SALES
+1118,Neha Gupta,165,,Mumbai,11-09-2021,invalid_email,sales
+1312,Priya Patel,25,NaN,Kolkata,05/06/2022,priya.patel@gmail.com, HR
+1170,Rahul Sharma,,109824.00,Chennai,,,marketing 
+1358,Rahul Sharma,N/A,₹37589,Surat,Jan 2022,rahul.sharma@gmail.com, HR
+1054,Neha Gupta,29,68322,bangalore,09/05/2023,neha.gupta@GMAIL.COM,marketing 
+1176,Neha Gupta,N/A,₹93014,Mumbai,,neha.gupta@GMAIL.COM,sales
+1194,Arjun Mehta,46,₹128697,Kolkata,03/01/2023,arjun.mehta@GMAIL.COM,Marketing
+1198,Rahul Sharma,N/A,₹94417,Bengaluru,2023-02-01,rahulsharma@yahoo.com,SALES
+1182,Pooja Reddy,NA,NaN,mumbai,2022,poojareddy@yahoo.com,marketing 
+1339,Arjun Mehta,32,129579.00,MUMBAI,2022,arjunmehta@yahoo.com, HR
+1103,Anjali Desai,175,26690.00,Kolkata,04-06-2023,invalid_email,marketing 
+1220,Sara Khan,200,,mumbai,,sara.khan@GMAIL.COM,marketing 
+1130,Karan Joshi,,NaN,Pune,Jan 2022,karan.joshi@gmail.com,Sales
+1300,Anjali Desai,170,22514,delhi,,anjalidesai@yahoo.com, HR
+1060,Pooja Reddy,,135137,mumbai,05-06-2022,pooja.reddy@gmail.com,SALES
+1094,Pooja Reddy,unknown,NaN,Mumbai,12-03-2022,invalid_email,Sales
+1193,Neha Gupta,,-32731,Pune,05/08/2022,,HR
+1140,Vikram Singh,NA,₹136756,Mumbai,,vikram.singh@GMAIL.COM,Marketing
+1148,Vikram Singh,28,NaN, Surat,05/04/2023,,IT
+1202,Anjali Desai,NA,,Delhi,05-04-2023,anjali.desai@GMAIL.COM,Marketing
+1152,Rahul Sharma,,NaN,Mumbai,06/03/2022,rahulsharma@yahoo.com,it
+1338,Neha Gupta,157,NaN,mumbai,Jan 2022,neha.gupta@GMAIL.COM, HR
+1010,Karan Joshi,,,Bangalore,2022,karanjoshi@yahoo.com,Marketing
+1269,Amit Kumar,NA,,mumbai,2021-03-20,amit.kumar@GMAIL.COM,it
+1096,Karan Joshi,N/A,70647,Mumbai,2021-08-01,,Marketing
+1210,Amit Kumar,35 yrs,,bangalore,2022,amit.kumar@gmail.com,Sales
+1240,Priya Patel,,32807.00,mumbai,2022,priya.patel@gmail.com,HR
+1057,Vikram Singh,28,143584.00,MUMBAI,,,SALES
+1301,Amit Kumar,30 yrs,-31876,Mumbai,04/17/2023,amit.kumar@gmail.com,marketing 
+1382,Arjun Mehta,unknown,18553.00,MUMBAI,Jan 2022,invalid_email,sales
+1036,Arjun Mehta,NA,-93862,Chennai,Jan 2022,,Marketing
+1371,Pooja Reddy,,NaN,Chennai,Jan 2022,invalid_email,Marketing
+1020,Priya Patel,NA,₹25377,Kolkata,,invalid_email,sales
+1365,Amit Kumar,25 yrs,15262.00,mumbai,,amit.kumar@GMAIL.COM,SALES
+1075,Amit Kumar,18 yrs,-106174,mumbai,08/19/2022,invalid_email,Marketing
+1200,Anjali Desai,43,NaN, Surat,06/03/2022,invalid_email,SALES
+1077,Karan Joshi,unknown,48260.00,Pune,Jan 2022,karan.joshi@GMAIL.COM,marketing 
+1263,Amit Kumar,30 yrs,,bangalore,12/02/2021,,marketing 
+1396,Neha Gupta,187,NaN,Delhi,,,Sales
+1149,Rahul Sharma,NA,NaN,Mumbai,,rahulsharma@yahoo.com,sales
+1364,Karan Joshi,35,119119.00,Bangalore,03-03-2022,karan.joshi@GMAIL.COM, HR
+1002,Anjali Desai,NA,-68990,pune ,08/19/2022,anjalidesai@yahoo.com,sales
+1052,Rahul Sharma,180,113009.00,Delhi,2022,rahulsharma@yahoo.com,HR
+1262,Vikram Singh,169,,MUMBAI,,vikram.singh@GMAIL.COM,it
+1253,Amit Kumar,32,₹122198, Surat,09-12-2022,invalid_email,SALES
+1259,Vikram Singh,N/A,NaN,Chennai,09-01-2021,vikramsingh@yahoo.com,Marketing
+1321,Anjali Desai,54,100284,Delhi,Jan 2022,anjalidesai@yahoo.com,it
+1183,Vikram Singh,,,Bangalore,03/27/2022,vikram.singh@GMAIL.COM,SALES
+1151,Sara Khan,unknown,NaN,Delhi,11/13/2021,sarakhan@yahoo.com,IT
+1375,Priya Patel,unknown,55059.00,mumbai,Jan 2022,invalid_email,Sales
+1302,Priya Patel,unknown,15465,delhi,2022,priyapatel@yahoo.com,Sales
+1190,Priya Patel,,₹41661,Pune,,priya.patel@GMAIL.COM,SALES
+1074,Rahul Sharma,,-23121,Mumbai,06/16/2023,rahul.sharma@gmail.com,marketing 
+1243,Rahul Sharma,42,73525,delhi,,invalid_email,IT
+1398,Anjali Desai,N/A,-23890,mumbai,2022,invalid_email,marketing 
+1087,Vikram Singh,155,NaN,Mumbai,05/09/2023,vikramsingh@yahoo.com,HR
+1239,Priya Patel,NA,₹83207,Pune,2022-07-08,invalid_email,Sales
+1143,Sara Khan,NA,NaN, Surat,Jan 2022,invalid_email, HR
+1346,Anjali Desai,NA,81028.00,Kolkata,02-10-2023,anjali.desai@gmail.com,sales
+1266,Neha Gupta,169,-116456,Bengaluru,Jan 2022,invalid_email, HR
+1288,Sara Khan,N/A,62049.00,Mumbai,,sarakhan@yahoo.com,sales
+1136,Priya Patel,,65120.00,Bangalore,,priyapatel@yahoo.com,sales
+1166,Sara Khan,23 yrs,NaN,bangalore,06/06/2022,invalid_email,Marketing
+1083,Priya Patel,47 yrs,,Bangalore,14-12-2022,,IT
+1368,Pooja Reddy,NA,-105912,Chennai,,pooja.reddy@gmail.com,Marketing
+1155,Anjali Desai,N/A,130701.00,mumbai,08-03-2021,anjalidesai@yahoo.com, HR
+1279,Pooja Reddy,,₹87354,Chennai,,poojareddy@yahoo.com, HR
+1126,Neha Gupta,,-145953,Bengaluru,2022,nehagupta@yahoo.com,sales
+1195,Vikram Singh,52 yrs,₹41440,Surat,Jan 2022,vikramsingh@yahoo.com,Sales
+1265,Karan Joshi,,91929.00,Chennai,08-03-2021,, HR
+1381,Anjali Desai,NA,NaN,pune ,05/22/2023,invalid_email,Marketing
+1104,Karan Joshi,56,70989.00,bangalore,10/05/2022,karan.joshi@GMAIL.COM,sales
+1153,Vikram Singh,unknown,,Bangalore,17-08-2022,vikram.singh@gmail.com,IT
+1282,Amit Kumar,30,-124481,Kolkata,2022,,SALES
+1226,Priya Patel,40,57899.00,delhi,,priya.patel@GMAIL.COM,sales
+1025,Anjali Desai,N/A,63588,delhi,06/08/2021,anjali.desai@gmail.com,IT
+1196,Amit Kumar,NA,55367.00,Bangalore,11/08/2022,invalid_email,Marketing
+1064,Vikram Singh,41 yrs,₹101724,MUMBAI,2022,invalid_email,Sales
+1015,Arjun Mehta,26 yrs,,Mumbai,25-03-2021,invalid_email, HR
+1297,Amit Kumar,25 yrs,₹83230,Delhi,16-04-2022,amit.kumar@GMAIL.COM, HR
+1109,Neha Gupta,unknown,130073.00,bangalore,01/09/2023,invalid_email,HR
+1336,Priya Patel,19,NaN, Surat,20-04-2023,priyapatel@yahoo.com,marketing 
+1308,Karan Joshi,45,56047.00,Chennai,2022,karan.joshi@GMAIL.COM,SALES
+1026,Arjun Mehta,,67685,delhi,2022-01-10,arjunmehta@yahoo.com,sales
+1076,Sara Khan,unknown,42409.00,mumbai,2021-06-07,invalid_email,it
+1043,Rahul Sharma,50 yrs,₹67537,Bengaluru,Jan 2022,rahul.sharma@GMAIL.COM,Sales
+1280,Vikram Singh,51 yrs,NaN,Pune,23-04-2022,vikram.singh@gmail.com, HR
+1003,Anjali Desai,NA,,bangalore,2022,,IT
+1380,Vikram Singh,49 yrs,66835,mumbai,2021-07-24,vikram.singh@gmail.com,IT
+1049,Neha Gupta,23 yrs,117677,pune ,2022-02-03,,sales
+1016,Karan Joshi,200,80141.00,Mumbai,2022,, HR
+1030,Priya Patel,48,53646.00,pune ,Jan 2022,invalid_email,sales
+1121,Anjali Desai,52,,delhi,,,Marketing
+1115,Karan Joshi,51 yrs,,MUMBAI,,karanjoshi@yahoo.com,marketing 
+1385,Priya Patel,N/A,,Pune,Jan 2022,invalid_email,it
+1216,Arjun Mehta,N/A,,Kolkata,,,it
+1264,Sara Khan,47 yrs,₹68644,MUMBAI,2023-11-23,sara.khan@GMAIL.COM,IT
+1209,Sara Khan,175,137143,delhi,,sara.khan@gmail.com,it
+1316,Pooja Reddy,N/A,108833,Surat,,invalid_email,IT
+1001,Sara Khan,58,,Kolkata,,sarakhan@yahoo.com,sales
+1313,Arjun Mehta,unknown,83335,pune ,2021-05-19,,HR
+1022,Anjali Desai,unknown,77504,MUMBAI,,anjalidesai@yahoo.com,marketing 
+1317,Rahul Sharma,NA,,Chennai,,rahulsharma@yahoo.com,HR
+1319,Neha Gupta,N/A,,mumbai,Jan 2022,nehagupta@yahoo.com,it
+1007,Amit Kumar,,NaN,Surat,18-07-2022,amitkumar@yahoo.com,sales
+1141,Arjun Mehta,58 yrs,NaN,pune ,Jan 2022,arjun.mehta@gmail.com, HR
+1086,Vikram Singh,unknown,15706.00,Delhi,,invalid_email,SALES
+1352,Vikram Singh,161,,Chennai,02/17/2021,invalid_email,marketing 
+1241,Karan Joshi,35,NaN, Surat,02/28/2022,karan.joshi@gmail.com,it
+1215,Vikram Singh,NA,NaN,MUMBAI,,invalid_email,IT
+1068,Sara Khan,,60780.00,mumbai,Jan 2022,sara.khan@GMAIL.COM,HR
+1050,Sara Khan,unknown,-49847,Bengaluru,2021-05-10,,marketing 
+1156,Vikram Singh,N/A,-36031,pune ,,,sales
+1252,Amit Kumar,,₹134055,delhi,2022,invalid_email,Sales
+1357,Priya Patel,26 yrs,102644.00, Surat,15-08-2021,priya.patel@gmail.com,HR
+1254,Amit Kumar,N/A,₹149428,Bengaluru,Jan 2022,amit.kumar@gmail.com,marketing 
+1276,Pooja Reddy,55,,delhi,27-09-2023,poojareddy@yahoo.com,IT
+1178,Rahul Sharma,38,₹50601,Delhi,2023-02-17,rahul.sharma@GMAIL.COM,sales
+1281,Arjun Mehta,38 yrs,₹103092,Delhi,10/14/2022,arjun.mehta@GMAIL.COM,sales
+1390,Priya Patel,196,-144230,MUMBAI,03/17/2022,priya.patel@gmail.com,HR
+1237,Amit Kumar,unknown,139076,bangalore,04/18/2022,invalid_email,sales
+1071,Pooja Reddy,N/A,,Pune,03/02/2021,invalid_email,SALES
+1129,Arjun Mehta,NA,110084.00,mumbai,2022,arjun.mehta@GMAIL.COM,SALES
+1144,Pooja Reddy,unknown,-48461,Surat,,poojareddy@yahoo.com, HR
+1335,Amit Kumar,27 yrs,128772,MUMBAI,,,HR
+1133,Sara Khan,40,₹41071,Bengaluru,20-07-2021,,Marketing
+1203,Sara Khan,159,,Chennai,02/03/2023,, HR
+1393,Karan Joshi,unknown,,Surat,Jan 2022,karanjoshi@yahoo.com, HR
+1255,Anjali Desai,NA,NaN,Kolkata,2022-04-22,anjali.desai@gmail.com,HR
+1072,Rahul Sharma,unknown,,Surat,11/03/2023,rahulsharma@yahoo.com,sales
+1396,Neha Gupta,187,NaN,Delhi,,,Sales
+1235,Vikram Singh,,102779,Mumbai,2022,,Marketing
+1037,Pooja Reddy,46 yrs,38780.00,Chennai,Jan 2022,pooja.reddy@GMAIL.COM,it
